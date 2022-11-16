@@ -1,0 +1,52 @@
+@font-face{
+    src: url("1.TTF");
+    font-family: d1;
+    font-style: normal;
+    font-weight: normal;
+}
+/*div*/
+.div1{
+    background-color: black;
+    text-align: center;
+}
+.div2{
+    text-align: center;
+    background-color: black;
+}
+.div3{
+    background-color: black;
+    text-align: center;
+}
+/*span*/
+span{
+    color: white;
+    font-family: d1;
+    font-size: 50px;
+}
+/*h1*/
+h1{
+    color: white;
+    font-family: d1;
+    font-size: 50px;
+}
+/*input*/
+#input1{
+    font-family: d1;
+    font-size: 50px;
+    text-align: center;
+}
+/*button*/
+button{
+    background-color: black;
+    color: white;
+    font-family: d1;
+    font-size: 50px;
+    transition: 0.75s;
+    border: hidden;
+}
+button:hover{
+    background-color: white;
+    color: black;
+    font-family: d1;
+    font-size: 50px;
+}
